@@ -2,7 +2,7 @@
 This package contains simpler, faster, and more efficient functions and codes.
 
 ## mathfun
-- 1. addAll
+- addAll
 ## Usage: 
 This function can be used to add number of numbers.
 
